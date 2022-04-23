@@ -1,13 +1,20 @@
-Welcome to PyProjectStructure documentation!
-===================================
+.. pyprojectstructure documentation master file, created by
+   sphinx-quickstart on Sat Apr 23 20:22:21 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**PyProjectStructure** (/lu'make/) is a Python project that you can copy and modify to create a python library/application, it has documentation that you can read through to understand how a python project structure works. 
+Welcome to pyprojectstructure's documentation!
+==============================================
 
-we constantly add new init and config files to show how python project structure and CI/CD situation is
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-.. note::
 
-   This project is under active development.
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
