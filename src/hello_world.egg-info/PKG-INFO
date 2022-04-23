@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: hello-world
+Version: 0.0.1
+Summary: hello_world
+Author: MustansirG
+Author-email: me@mustansirg.in
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: testing
+
+UNKNOWN
+
