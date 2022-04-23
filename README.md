@@ -5,3 +5,5 @@
 
 Hi, there! Welcome 
 This a simple repo with a basic python project structure with folders, tests and tox setup.
+
+We have docs on readthedocs.io check description on Github for the link.
