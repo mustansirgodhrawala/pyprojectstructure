@@ -13,6 +13,7 @@ Classifier: Programming Language :: Python :: 3.7
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
 Provides-Extra: testing
+License-File: LICENSE.md
 
 UNKNOWN
 
