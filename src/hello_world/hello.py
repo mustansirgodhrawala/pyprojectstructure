@@ -4,5 +4,3 @@ def print_hello():
 
 def custom_print(name):
     print(f"Hello, {name}!")
-
-
