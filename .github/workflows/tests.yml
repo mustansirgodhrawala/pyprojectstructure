@@ -28,4 +28,4 @@ jobs:
       uses: coverallsapp/github-action@master
       with:
         github-token: ${{ secrets.COVERALLS_KEY }}
-        path-to-lcov: .coverage.lcov
+        path-to-lcov: ${{ github.workspace }}/coverage.lcov
