@@ -24,7 +24,3 @@ jobs:
         pip install tox tox-gh-actions
     - name: Test with tox
       run: tox 
-    - name: Push to codecov
-      run: curl -Os https://uploader.codecov.io/latest/linux/codecov 
-            chmod +x codecov 
-            ./codecov
