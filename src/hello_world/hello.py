@@ -4,3 +4,7 @@ def print_hello():
 
 def custom_print(name):
     print(f"Hello, {name}!")
+
+
+def name_length(name: str) -> int:
+    return len(name)
