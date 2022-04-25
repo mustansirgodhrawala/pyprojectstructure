@@ -8,3 +8,4 @@ tox>=3.24
 coverage-badge
 python-coveralls
 pyyaml
+black===22.3.0
