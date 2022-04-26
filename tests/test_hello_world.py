@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 import pytest
 
-from hello_world.hello import custom_print
-from hello_world.hello import name_length
-from hello_world.hello import print_hello
+from hello_world.file1 import custom_print
+from hello_world.file1 import name_length
+from hello_world.file1 import print_hello
 
 
 def test_main(capfd):
